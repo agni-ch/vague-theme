@@ -2,7 +2,7 @@
   "name": "vague-theme",
   "displayName": "Vague Theme",
   "description": "A port of vague.nvim theme",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "agnibha-chatterjee",
   "icon": "icon.png",
   "engines": {
