@@ -52,6 +52,7 @@
 
     "diffEditor.insertedTextBackground": "#00809B33",
     "diffEditor.removedTextBackground": "#d8647e52",
+    "diffEditor.modifiedTextBackground": "#796651",
     "diffEditor.insertedLineBackground": "#7fa56320",
     "diffEditor.removedLineBackground": "#d8647e30",
     "diffEditorGutter.insertedLineBackground": "#7fa56350",
@@ -465,7 +466,7 @@
     "terminal.ansiBrightBlue": "#7e98e8",
     "terminal.ansiBrightMagenta": "#bb9dbd",
     "terminal.ansiBrightCyan": "#b4d4cf",
-    "terminal.ansiBrightWhite": "#cdcdcd",
+    "terminal.ansiBrightWhite": "#d7d7d7",
     "terminal.selectionBackground": "#3E4451",
     "terminal.border": "#181A1F",
     "terminal.dropBackground": "#333738",
